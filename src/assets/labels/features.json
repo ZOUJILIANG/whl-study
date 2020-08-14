@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "content": "写日记",
+            "key": "note",
+            "icon": "src/assets/icon/note.png"
+        },
+        {
+            "content": "悄悄话",
+            "key": "message",
+            "icon": "src/assets/icon/message.png"
+        },
+        {
+            "content": "装扮",
+            "key": "home",
+            "icon": "src/assets/icon/dress-up.png"
+        },
+        {
+            "content": "打卡",
+            "key": "clock",
+            "icon": "src/assets/icon/clock.png"
+        },
+        {
+            "content": "更多",
+            "key": "more",
+            "icon": "src/assets/icon/more.png"
+        }
+    ]
+}

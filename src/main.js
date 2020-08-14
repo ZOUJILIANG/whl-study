@@ -6,7 +6,19 @@ import VueRouter from 'vue-router'
 import App from './App'
 import router from './router/index'
 
-Vue.use(VueRouter)
+import axios from 'axios'
+import qs from 'qs'
+import { Icon, base64 } from 'vux'
+import './assets/css/app.scss'
+import animated from 'animate.css'
+
+base64.encode('VUX')
+base64.decode('VlVY')
+Vue.prototype.$ajax = axios
+Vue.prototype.$qs = qs
+
+Vue.use(VueRouter, animated)
+Vue.component('icon', Icon)
 
 FastClick.attach(document.body)
 

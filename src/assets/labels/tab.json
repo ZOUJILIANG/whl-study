@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "content": "我们",
+            "key": "love",
+            "url": "love",
+            "icon": "src/assets/icon/tab-love.png"
+        },
+        {
+            "content": "社区",
+            "key": "community",
+            "url": "CommunityPage",
+            "icon": "src/assets/icon/tab-community.png"
+        },
+        {
+            "content": "我",
+            "key": "self",
+            "url": "SelfPage",
+            "icon": "src/assets/icon/tab-self.png"
+        }
+    ]
+}
